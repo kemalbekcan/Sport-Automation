@@ -1,0 +1,4 @@
+İlk önce sisteme kayıt olun ve sonra gerekli işlemleri yapınız.
+Önceden admin kullanıcı için veri tabanında oluşturmuştum.
+Kullanıcı Adı:kemal
+şifre: bekcan
